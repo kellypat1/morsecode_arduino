@@ -5,7 +5,7 @@ receiver of Morse signals. The Morse code transmitter is connected to the comput
 
 <img src="https://github.com/kellypat1/morsecode_arduino/blob/main/transmitter.jpg" width="700">
 
-On the contrary, the Morse receiver draws the necessary energy from simple batteries (AA 1.5V). Thus, the transmitter of the Morse signals reads them
+On the contrary, the Morse receiver draws the necessary energy from simple batteries (AA 1.5V). Thus, the transmitter of the Morse signals reads the
 characters entered from the keyboard, which are converted to “.” and “-” and transfers them using Bluetooth to the other Arduino Uno. 
 
 <img src="https://github.com/kellypat1/morsecode_arduino/blob/main/receiver.jpg" width="700">
