@@ -1,4 +1,3 @@
-e//Created by Patsika Kalliopi, Tsagkidi I
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h> 
 #include <AltSoftSerial.h>
