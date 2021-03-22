@@ -1,4 +1,3 @@
-//Created by Patsika Kalliopi, Tsagkidi I
 #include <AltSoftSerial.h>
 AltSoftSerial BTserial; 
 boolean DEBUG = true;
